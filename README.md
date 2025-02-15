@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JT, aka @DSD-resilience, which is a key value of my digital products firm, DSD.
+- 👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.
 - 👀 I’m interested in Shiny apps, statistics, AI-ML, and cyber resiliency.
 - 🌱 I’m always learning more R, Python and SQL.
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, statistical analysis and data cleaning.
