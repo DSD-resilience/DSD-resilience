@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
 - 😄 Dad Joke of the Day: How do you throw a party in outer space?  You plan-et!
-- ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist and they are not my first languages.
+- ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
