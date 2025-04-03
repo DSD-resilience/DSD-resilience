@@ -3,7 +3,7 @@
 - 🌱 I’m always learning more R, Python and SQL.
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
-- 😄 Dad Joke of the Day: How do you throw a party in outer space?  You plan-et!
+- 😄 Dad Joke of the Day: Why was Cinderella so bad at hoops? She kept running away from the ball.
 - ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
 <!---
