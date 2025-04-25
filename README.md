@@ -3,7 +3,7 @@
 - 🌱 I’m always learning more R, Python and SQL.
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
-- 😄 Dad Joke of the Day: Why was Cinderella so bad at hoops? She kept running away from the ball.
+- 😄 Dad Joke of the Day: What did the big flower say to the little flower? "Hi, bud!"
 - 😄 Bonus Joke: Why are libraries so tall? Because they have so many stories.
 - ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
