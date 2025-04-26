@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
 - 😄 Dad Joke of the Day: What did the big flower say to the little flower? "Hi, bud!"
-- 😄 Bonus Joke: Why are libraries so tall? Because they have so many stories.
+- 😄 Bonus Joke: My girlfriend borrowed $100 from me. After 3 years, when we separated, she returned exactly $100. I lost interest in the relationship.  I was all a-loan.
 - ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
 <!---
