@@ -3,7 +3,7 @@
 - 🌱 I’m always learning more R, Python and SQL.
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
-- 😄 Dad Joke of the Day: What did the big flower say to the little flower? "Hi, bud!"
+- 😄 Dad Joke of the Day: It's tough to get a large Coke in Minneapolis. They only have mini sodas.
 - 😄 Bonus Joke: My high school class voted me "most secretive." I can't tell you how much that award meant to me.
 - ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
