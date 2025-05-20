@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
 - 😄 Dad Joke of the Day: It's tough to get a large Coke in Minneapolis. They only have mini sodas.
-- ⚡ Fun fact: I am a (former) Russian/Ukrainian linguist.
 
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
