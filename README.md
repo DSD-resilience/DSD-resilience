@@ -3,7 +3,7 @@
 - 🌱 I’m always learning more R, Python and SQL.
 - 💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
 - 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
-- 😄 Dad Joke of the Day: It's tough to get a large Coke in Minneapolis. They only have mini sodas.
+- 😄 Dad Joke of the Day: What do you call a lazy kangaroo? A pouch potato!
 
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
