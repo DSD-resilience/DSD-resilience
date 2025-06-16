@@ -1,8 +1,8 @@
-- 👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.
-- 👀 I’m interested in Shiny apps, statistics, AI-ML, and cyber resiliency.
-- 🌱 I’m always learning more R, Python and SQL.
-- 💞️ I’m looking to collaborate on machine learning applied to dashboards for strategic insights, Shiny apps for enterprise, statistical analysis and data cleaning.
-- 📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
+- 👋 Hi, I’m JT, and I own a digital products firm, DSD.  We help people understand and use data models.
+- 👀 Key areas of research and development are statistics, AI-ML, and cyber resiliency.
+- 🌱 Let's find more and better ways to analyze data with R, Python and SQL.
+- 💞️ Your clients can benefit from our collaborations on machine learning applied for strategic insights, statistical analysis and data cleaning.
+- 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries please.
 - 😄 Dad Joke of the Day: I went to buy a pair of camouflage pants.... but I couldn't find any!
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
