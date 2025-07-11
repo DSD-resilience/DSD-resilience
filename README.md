@@ -3,7 +3,7 @@
 - 🌱 Let's find more and better ways to analyze data with R, Python and SQL together.
 - 💞️ Create value with collaborations on machine learning applied for strategic insights, statistical analysis and data cleaning.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries please.
-- 😄 Dad Joke of the Day: Dude, can you pass me that leaflet? Brochure.
+- 😄 Dad Joke of the Day: Why did the banana go to the doctors? Because he wasn’t peeling very well. 
 - 😎 Bonus Dad Joke: Why did the bicycle fall over? Because it was two tired!
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
