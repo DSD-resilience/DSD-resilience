@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JT, from the digital products firm, DSD.  We help people understand and use data models.
+- 👋 We help people understand and use data models.
 - 👀 Key areas of research and development are statistics, AI-ML, and cyber resiliency.  
 - 🌱 Analyze your data with R, Python and SQL in order to find valuable insights.
 - 💞️ Create value with collaborations on machine learning; it can be applied for strategic insights, statistical analysis and for data cleaning.
