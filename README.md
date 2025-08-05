@@ -4,7 +4,7 @@
 - 💞️ Machine learning and AI can be applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨 Read about data science at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke of the Day: How much does it cost Santa to park his sleigh? Nothing, it's on the house. 
+- 😄 Dad Joke of Day: Why don't you iron a four leaf clover? You never press your luck. 
 - 😎 Bonus Dad Joke: How much money does a skunk have? Just one scent.
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
