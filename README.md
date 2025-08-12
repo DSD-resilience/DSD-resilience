@@ -4,7 +4,7 @@
 - 💞️ Machine learning and AI can be applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨 Read about data science at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke: What do you call a line of men waiting for a haircut? A barberqueue.
+- 😄 Dad Joke: Why are elevator jokes so good? They work on so many different levels.
 - 😎 Bonus Dad Joke: My wife said I should do lunges to stay in shape. That would be a big step forward. 
 <!---
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
