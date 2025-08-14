@@ -5,8 +5,8 @@
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨 Read about data science at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke: Why are elevator jokes so good? They work on many different levels.
-- 😎 Bonus Dad Joke: My wife said I should do lunges to stay in shape. That would be a big step forward. 
-<!---
+- 😎 Bonus Dad Joke: Why did the bicycle fall over? Because it was two-tired!
+
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
