@@ -1,5 +1,5 @@
 - 👋 We help people understand and use data models.
-- 👀 Key challenge areas that I can help you with are statistics and AI-ML.  
+- 👀 Key challenge areas that we can help you with are statistics and AI-ML.  
 - 🌱 You can analyze data with R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning and AI can be applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
