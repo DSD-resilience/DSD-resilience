@@ -5,7 +5,7 @@
 - 💞️ Machine learning and AI can be applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨 Read about practical applications for data science at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke: Why are elevator jokes so good? They work on many different levels.
+- 😄 Dad Joke: I can't take the NFL seriously.  It is just passing entertainment.
 - 😎 Bonus Dad Joke: Why did the bicycle fall over? Because it was two-tired!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
