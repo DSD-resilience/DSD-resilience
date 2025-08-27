@@ -6,7 +6,7 @@
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨what are some actual use cases? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke: I can't take the NFL seriously.  It is just passing entertainment.
-- 😎 Bonus Dad Joke: Why did the bicycle fall over? Because it was two-tired!
+- 😎 Bonus Dad Joke: What kind of shoes do frogs wear? Open-toad sandals!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
