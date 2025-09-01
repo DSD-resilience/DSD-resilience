@@ -4,7 +4,7 @@
 - 🌱 Experts can show you how to analyze data with R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning and AI are applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
-- 🏍️💨what are some actual use cases? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
+- 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke: I can't take the NFL seriously.  It is only passing entertainment.
 - 😎 Bonus Dad Joke: What kind of shoes do frogs wear? Open-toad sandals!
 
