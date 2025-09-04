@@ -5,7 +5,7 @@
 - 💞️ Machine learning and AI are applied to data cleaning, statistical analysis and data models in order to rapidly inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke: How many tummy rubs does it take to make an octopus giggle? Ten-tickles.
+- 😄 Dad Joke of the day: How many tummy rubs does it take to make an octopus giggle? Ten-tickles.
 - 😎 Bonus Dad Joke: What kind of shoes do frogs wear? Open-toad sandals!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
