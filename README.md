@@ -6,7 +6,7 @@
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: How many tummy rubs does it take to make an octopus giggle? Ten-tickles.
-- 😎 Bonus Dad Joke: What kind of shoes do frogs wear? Open-toad sandals!
+- 😎 Bonus Dad Joke: I am worried for my calendar, it seems that its days are numbered!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
