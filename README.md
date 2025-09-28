@@ -6,7 +6,7 @@
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: Did you hear about the Italian chef that died? He pasta way!
-- 😎 Bonus Dad Joke: I'm writing a book on reverse psychology. Please don't buy it.
+- 😎 Bonus Dad Joke: What did one hat say to the other? Wait here, I’m going on ahead!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
