@@ -5,7 +5,7 @@
 - 💞️ Machine learning and AI are applied to data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Let's communicate: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke of the day: I am worried about my calendar, its days are numbered.
+- 😄 Dad Joke of the day: Once I read a book about glue.  I couldn't put it down.
 - 😎 Bonus Dad Joke: What did one hat say to the other? Wait here, I’m going on ahead!
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
