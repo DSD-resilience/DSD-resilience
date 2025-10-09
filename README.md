@@ -1,4 +1,4 @@
-- 👋 We help people understand & use data models. Great data models improve outcomes  
+- 👋 I help people understand & use data models. Great data models improve outcomes  
 - 👀 Key areas that we can help you with are statistics and AI-ML!
 - 👉 “Smart business shortcuts powered by data science — no PhD required.” 
 - 🌱 We can show how to analyze data with R, Python and SQL in order to gain valuable insights.
