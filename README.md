@@ -6,7 +6,7 @@
 - 📫 Let's get in touch: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: Which days are the strongest? Saturday and Sunday. The rest are weekdays.
-- 😎 Bonus Dad Joke: What did one hat say to the other? Wait here, I’m going on ahead!
+- 😎 Bonus Dad Joke: I am very concerned for my calendar, it seems that its days are numbered.
 
 DSD-resilience/DSD-resilience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
