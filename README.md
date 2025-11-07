@@ -7,5 +7,5 @@
 - 📫 Let's get in contact: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: Which days are the strongest? Saturday and Sunday. The rest are weekdays.
-- 😎 Bonus Dad Joke: Did you know your pupils are the last part to stop working when you pass on? They dilate.
+- 😎 Bonus Dad Joke: My wife said I should do lunges to stay in shape. That would be a big step forward.
 --->
