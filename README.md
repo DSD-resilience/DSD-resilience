@@ -6,6 +6,7 @@
 - 💞️ Machine learning (ML) and AI are applied to data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Let's get in contact: millerauthor@datascientistdude.com for business inquiries.
 - 🏍️💨How can you use data science to improve your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke of the day: Which days are the strongest? Saturday and Sunday. The rest are weekdays.
+- 😄 Dad Joke of the day: I was on the train to work and the conductor told me he had to charge me extra for telling dad jokes.
+                  I told him that's not fare.
 - 😎 Bonus Dad Joke: My wife said I should do lunges to stay in shape. That would be a big step forward.
 --->
