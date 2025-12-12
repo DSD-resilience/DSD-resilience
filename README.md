@@ -1,4 +1,4 @@
-- 👋 We can assist your team in understanding and using data models. Great data models improve outcomes.  
+- 👋 We can assist your team in understanding and utilizing data models. Great data models improve outcomes.  
 - 👀 We can help you utilize statistics and AI-ML based on your data.
 - 👽 BI & Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are for everyone.
 - 👉 “Smart business shortcuts activated by data science — no PhD required!"
