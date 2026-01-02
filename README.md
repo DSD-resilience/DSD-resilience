@@ -4,7 +4,7 @@
 - 👉 “Smart business shortcuts enabled by data science — no PhD required!"
 - 🌱 We can assist you in analyzing data with PowerBI, R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning (ML) and AI have the potential to be routine tools applied to data cleaning, statistical analysis and data models in order to inform strategy.
-- 📫 Reach out: millerauthor@datascientistdude.com for inquiries.
+- 📫 Contact us: millerauthor@datascientistdude.com for inquiries.
 - 🏍️💨How can you use data science to impact your P/L statement? Find out at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: I was on the train to work and the conductor told me he had to charge me extra for telling dad jokes.
                   I told him that's not fare.
