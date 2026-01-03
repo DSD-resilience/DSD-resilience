@@ -1,6 +1,6 @@
 - 👋 We can help your team in understanding and utilizing data models. Great data models improve outcomes.  
 - 👀 We can help you use statistics and AI-ML based on your data.
-- 👽 BI & Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are for everyone.
+- 👽 BI & Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are tools for everyone.
 - 👉 “Smart business shortcuts enabled by data science — no PhD required!"
 - 🌱 We can assist you in analyzing data with PowerBI, R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning (ML) and AI have the potential to be routine tools applied to data cleaning, statistical analysis and data models in order to inform strategy.
