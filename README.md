@@ -1,4 +1,4 @@
-- 👋 We can assist your enterprise in understanding and utilizing data models. Exceptional data models improve outcomes.  
+- 👋 We can assist your organization in understanding and utilizing data models. Exceptional data models improve outcomes.  
 - 👀 We can help you utilize statistics and AI-ML based on your data.
 - 👽 BI & Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are tools for everyone.
 - 👉 “Smart business shortcuts created by data science — no PhD required."
