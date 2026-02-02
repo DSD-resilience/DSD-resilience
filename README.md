@@ -8,4 +8,4 @@
 - 🏍️💨How can you use data science to impact your Profit/Loss statement? Discover at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: I was on the train to work and the conductor told me he had to charge me extra for telling dad jokes.
                   I told him that's not fare.
-- 😎 Bonus Dad Joke: I used to hate facial hair...But then it grew on me.
+- 😎 Bonus Dad Joke: How do cows stay up to date? They read the Moo-spaper.
