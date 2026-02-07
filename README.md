@@ -5,6 +5,6 @@
 - 🌱 Let us help you in analyzing data using R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning (ML) plus AI have the potential to be tools utilized in data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
-- 🏍️💨How can you use data science to impact your Profit/Loss statement? Discover at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
+- 🏍️💨Discover us at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: I tried to catch some fog, but I mist.
 - 😎 Bonus Dad Joke: How do cows stay up to date? They read the Moo-spaper.
