@@ -7,4 +7,3 @@
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
 - 🏍️💨Discover us at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: I tried to catch some fog, but I mist.
-- 😎 Bonus Dad Joke: How do cows stay up to date? They read the Moo-spaper.
