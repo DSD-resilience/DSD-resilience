@@ -6,4 +6,4 @@
 - 💞️ Machine learning (ML) plus AI have the potential to be tools utilized in data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
 - 🏍️💨Discover us at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
-- 😄 Dad Joke of the day: I tried to catch some fog, but I mist.
+- 😄 Dad Joke of the day: The train conductor tried to charge me extra for telling dad jokes during my commute, I told him "that's not fare."
