@@ -2,7 +2,7 @@
 - 👀 We can assist you utilize statistics and AI-ML based on your data.
 - 👽 Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are tools for all.
 - 👉 “Smart business answers created by data science — no PhD required."
-- 🌱 Let our team assist you in analyzing data using R, Python and SQL in order to gain valuable insights.
+- 🌱 Let us assist you in analyzing data using R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning (ML) plus AI have the potential to be tools utilized in data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
 - 🏍️💨Discover us at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
