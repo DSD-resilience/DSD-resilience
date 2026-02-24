@@ -1,7 +1,7 @@
 - 👋 We can assist your organization in understanding and utilizing data models. Exceptional data models improve outcomes.  
 - 👀 We can assist you utilize statistics and AI-ML based on your data.
 - 👽 Data Visualization, Data Integration, Data Engineering, and Advanced Analytics are tools for all.
-- 👉 “Smart business answers through data science — no PhD required."
+- 👉 “The best business answers through data science — no PhD required."
 - 🌱 Let us assist you in analyzing data using R, Python and SQL in order to gain valuable insights.
 - 💞️ Machine learning (ML) plus AI have the potential to be tools utilized in data cleaning, statistical analysis and data models in order to inform strategy.
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
