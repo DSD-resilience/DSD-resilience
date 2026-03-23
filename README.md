@@ -7,4 +7,4 @@
 - 📫 Reach out: millerauthor@datascientistdude.com for problem solving.
 - 🏍️💨Discover us at : https://datascientistdude.medium.com/ and https://datascientistdude.substack.com/
 - 😄 Dad Joke of the day: The train conductor tried to charge me extra for telling dad jokes during my commute, I told him "that's not fare."
-- 😄 Bonus Dad Joke: I tried to catch some fog but I mist.
+- 😄 Bonus Dad Joke: I went to Italy just to Rome around.
